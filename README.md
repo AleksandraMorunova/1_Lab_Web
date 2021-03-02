@@ -1,4 +1,3 @@
-# 1_LAB_Web
 <!DOCTYPE html>
 <html>
 <head>
